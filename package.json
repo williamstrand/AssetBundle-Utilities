@@ -5,10 +5,8 @@
   "description": "",
   "unity": "2019.1",
   "unityRelease": "0b5",
-  "dependencies": {
- },
   "author": {
     "name": "William Strand Paurell",
-    "email": "william.strandpaurell@gmail.com",
+    "email": "william.strandpaurell@gmail.com"
   }
 }
